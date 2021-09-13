@@ -1,0 +1,17 @@
+{
+  "short_name": "DRK Team",
+  "name": "DRK Team Website",
+  "description": "Team's main website",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "#EEEEEE",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#F44336"
+}
