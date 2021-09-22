@@ -41,18 +41,19 @@
             {/if}
         </div>
         <div in:fly="{{y: 200, duration: 1000}}" class="row server-list">
-            <div class="col s12 m12 l12">
-                <ul class="collection">
+            <div class="col s12 m12 l12 white-text center-align">
+<!--                <ul class="collection">-->
                     <!--                    COUNTER-STRIKE 1.6 SERVER #1-->
-                    <li class="collection-item avatar">
-                        <img src="icons/counter_strike_16.png" alt="" class="circle">
-                        <span class="title">Counter-Strike 1.6</span>
-                        <p>Public, Mix<br>
-                            <span class="ip" on:click={()=>{copyIp('46.174.52.17:27232')}}>46.174.52.17:27232</span>
-                        </p>
-                        <a class="secondary-content green-text">online</a>
-                    </li>
-                </ul>
+<!--                    <li class="collection-item avatar">-->
+<!--                        <img src="icons/counter_strike_16.png" alt="" class="circle">-->
+<!--                        <span class="title">Counter-Strike 1.6</span>-->
+<!--                        <p>Public, Mix<br>-->
+<!--                            <span class="ip" on:click={()=>{copyIp('128.0.0.1:25565')}}>128.0.0.1:25565</span>-->
+<!--                        </p>-->
+<!--                        <a class="secondary-content green-text">online</a>-->
+<!--                    </li>-->
+<!--                </ul>-->
+                <b>No game servers online</b>
             </div>
         </div>
         <div class="row about">
