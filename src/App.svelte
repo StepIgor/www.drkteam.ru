@@ -60,7 +60,6 @@
             <div class="col s12 m12 l12 center-align">
                 <a href="https://discord.gg/GQCFeNhqzg" target="_blank"><img src="img/discord.png" class="hoverable responsive-img contacts"/></a>
                 <a href="https://steamcommunity.com/groups/drkteamru" target="_blank"><img src="img/steam.png" class="hoverable responsive-img contacts"/></a>
-                <a href="https://t.me/drkteamru" target="_blank"><img src="img/telegram.png" class="hoverable responsive-img contacts"/></a>
             </div>
             <div class="col s12 m12 l12 center-align white-text">
                 2021 - <a href="mailto:darkness@drkteam.ru" class="white-text">darkness@drkteam.ru</a>
